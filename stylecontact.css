@@ -40,7 +40,7 @@ li a::after{
 li a:hover::after{
     width: 100%;
 }
-.signup-btn{
+.contact-btn{
     padding: 10px 20px;
     background: rgba(163, 25, 175, 0.418);
     color: rgb(236, 231, 229);
